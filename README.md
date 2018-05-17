@@ -1,4 +1,4 @@
-# FBAutoPrivateAlbum
+# Facebook Auto Private Album Photos Script
 
 1. Load your album(e.g: Photos -> Albums -> Mobile Uploads)
 2. Have all the pictures you want private currently on the page
